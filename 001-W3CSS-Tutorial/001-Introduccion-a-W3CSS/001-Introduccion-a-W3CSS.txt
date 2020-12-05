@@ -1,0 +1,61 @@
+CSS receptivo moderno
+
+Igualdad para todos los navegadores: Chrome. Firefox Edge. ES DECIR. Safari. Ópera.
+
+Igualdad para todos los dispositivos: escritorio. Ordenador portátil. Tableta. Móvil.
+
+CSS estándar solamente (sin jQuery o biblioteca de JavaScript).
+
+
+W3.CSS es un marco CSS
+
+W3.CSS es un marco CSS moderno con soporte para escritorio, tableta y diseño móvil de forma predeterminada.
+
+W3.CSS es más pequeño y más rápido que los marcos CSS similares.
+
+W3.CSS fue diseñado para ser una alternativa de alta calidad a Bootstrap.
+
+Fue diseñado para ser más pequeño, más rápido, más fácil de aprender y más fácil de usar.
+
+También fue diseñado para ser independiente de jQuery o cualquier otra biblioteca de JavaScript.
+
+
+=========================================================================
+
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-teal">
+  <h1>My Car</h1>
+</div>
+
+<img src="img_car.jpg" alt="Car" style="width:100%">
+
+<div class="w3-container">
+  <p>A car is a wheeled, self-powered motor vehicle used for transportation.</p>
+</div>
+
+<div class="w3-container w3-teal">
+  <p>My footer information</p>
+</div>
+
+</body>
+</html> 
+
+
+W3.CSS es gratis
+
+W3.CSS es de uso gratuito. No se necesita licencia.
+Cómo
+
+Para usar W3.CSS en su sitio web, simplemente agregue un enlace a 'w3.css' desde sus páginas web:
+
+Plantillas del sitio web W3.CSS
+
+Hemos creado algunas plantillas W3CSS receptivas para su uso.
+
+Usted es libre de modificar, guardar, compartir, usar o hacer lo que quiera con ellos:

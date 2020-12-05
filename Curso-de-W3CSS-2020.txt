@@ -1,0 +1,81 @@
+CSS receptivo moderno
+
+Igualdad para todos los navegadores: Chrome. Firefox Edge. ES DECIR. Safari. Ópera.
+
+Igualdad para todos los dispositivos: escritorio. Ordenador portátil. Tableta. Móvil.
+
+CSS estándar solamente (sin jQuery o biblioteca de JavaScript).
+W3.CSS es un marco CSS
+
+W3.CSS es un marco CSS moderno con soporte para escritorio, tableta y diseño móvil de forma predeterminada.
+
+W3.CSS es más pequeño y más rápido que los marcos CSS similares.
+
+W3.CSS fue diseñado para ser una alternativa de alta calidad a Bootstrap.
+
+Fue diseñado para ser más pequeño, más rápido, más fácil de aprender y más fácil de usar.
+
+También fue diseñado para ser independiente de jQuery o cualquier otra biblioteca de JavaScript.
+
+W3.CSS
+W3.CSS HOME
+Introducción a W3.CSS
+Colores W3.CSS
+Contenedores W3.CSS
+Paneles W3.CSS
+Fronteras W3.CSS
+Tarjetas W3.CSS
+Fuentes W3.CSS
+W3.CSS Text
+W3.CSS Round
+Acolchado W3.CSS
+W3.CSS Margins
+Pantalla W3.CSS
+Botones W3.CSS
+W3.CSS Notes
+W3.CSS Quotes
+Alertas W3.CSS
+Tablas W3.CSS
+Listas de W3.CSS
+Imágenes W3.CSS
+Entradas W3.CSS
+Insignias W3.CSS
+Etiquetas W3.CSS
+Iconos W3.CSS
+W3.CSS Responsive
+Diseño W3.CSS
+W3.CSS Animaciones
+Efectos W3.CSS
+Barras W3.CSS
+W3.CSS desplegables
+W3.CSS acordeones
+W3.CSS Navigation
+W3.CSS Sidebar
+Pestañas W3.CSS
+W3.CSS Paginación
+Barras de progreso W3.CSS
+Presentación de diapositivas de W3.CSS
+W3.CSS Modal
+Información sobre herramientas de W3.CSS
+W3.CSS Grid
+Código W3.CSS
+Filtros W3.CSS
+W3.CSS Trends
+W3.CSS Case
+W3.CSS Material
+Validación de W3.CSS
+Versiones de W3.CSS
+W3.CSS Mobile
+
+Colores W3.CSS
+Clases de color W3.CSS
+Material de color W3.CSS
+IU plana de color W3.CSS
+W3.CSS Color Metro UI
+W3.CSS Color Win8
+W3.CSS Color iOS
+Bibliotecas de colores W3.CSS
+Esquemas de color W3.CSS
+Temas de color W3.CSS
+Generador de color W3.CSS
+
